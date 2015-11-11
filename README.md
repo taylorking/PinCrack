@@ -1,6 +1,6 @@
 # Pincrack
 
-## What this is
+### What this is
 
 Crack your pre-registration advising pin. Useful if your academic advisor is unavailable.
 

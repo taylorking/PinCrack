@@ -33,7 +33,6 @@ Be careful with this, The school hasn't said anything about this yet, however if
 ```sh
 #sleep .5
 ```
-line 
 
 ### Another Note
 You should still probably go see your academic advisor too.. Use this just to get your pin and register if your advisor can't meet prior to the registration deadline.

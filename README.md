@@ -12,7 +12,7 @@ Crack your pre-registration advising pin. Useful if your academic advisor is una
 ```sh
 $ ./begin.sh
 ```
-### Example:
+### Example
 ```sh
 000000
 000001
@@ -22,10 +22,10 @@ $ ./begin.sh
 000356
 000357
 000358
-Pin found: 000358
+Pin found 000358
 ```
 
-### Note: 
+### Note 
 Be careful with this, The school hasn't said anything about this yet, however if a bunch of people start using this and bogging down the servers they will probably get mad. You can slow down the requests by uncommenting the 
 
 ```sh
@@ -33,5 +33,5 @@ Be careful with this, The school hasn't said anything about this yet, however if
 ```
 line 
 
-### Another Note:
+### Another Note
 You should still probably go see your academic advisor too.. Use this just to get your pin and register if your advisor can't meet prior to the registration deadline.

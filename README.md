@@ -6,7 +6,7 @@ Crack your pre-registration advising pin. Useful if your academic advisor is una
 
 ### Usage
 
-- Change the values of `app_username` and `app_password` to your username and password... You have to do a bunch of foreplay with the server to get it to trust your session, so make sure you change the line at the top where it is just exchanging cookies
+- Change the values of `app_username` and `app_password` to your username and password... You have to do a bunch of foreplay with the server to get it to trust your session, so make sure you change the lines at the top where it is just exchanging cookies
 - Change the value of `term_in=201610` or whatever is the latest to reflect the current semester.
 
 ```sh
